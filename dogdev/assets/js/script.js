@@ -1,7 +1,7 @@
 //Menu HEADER
 
 //Seleciona o menuOper
-let menuOper = document.querySelector('.menu-oper');
+let menuOper = document.querySelector('.menu-opener');
 
 //Seleciona o nav dentro do header
 let nav = document.querySelector('header nav');
